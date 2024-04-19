@@ -31,7 +31,7 @@ import com.healthCare.hospiceHealthCare.objectRepository.HMSPage;
 public class AddDoctorTest extends BaseClass {
 	@Test(groups = "regression")
 	public  void AddDoctorTest() throws EncryptedDocumentException, IOException   {
-				  
+		//hii		  
 		  String SPECL = eUtil.readDataFromExcel("admin", 3, 1);
 		  String DOCNAME = eUtil.readDataFromExcel("admin", 4, 1);
 		  String DOCCLIADD = eUtil.readDataFromExcel("admin", 5, 1);
