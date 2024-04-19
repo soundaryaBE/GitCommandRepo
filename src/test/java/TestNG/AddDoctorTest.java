@@ -34,6 +34,9 @@ public class AddDoctorTest extends BaseClass {
 		//hii	
 		
 		//hello all
+
+		//welcome all
+		
 		  String SPECL = eUtil.readDataFromExcel("admin", 3, 1);
 		  String DOCNAME = eUtil.readDataFromExcel("admin", 4, 1);
 		  String DOCCLIADD = eUtil.readDataFromExcel("admin", 5, 1);
